@@ -1,3 +1,4 @@
+#Writer Batuhan Ozbay
 import math
 import time
 import pygame
